@@ -1,4 +1,6 @@
-🏭 Storage Factory & Smart Contract Inheritance
+***Storage Factory & Smart Contract Inheritance***
+
+
 This project demonstrates the power of composability in Solidity. Instead of just deploying a single contract, we explore how to build a Factory that can deploy multiple instances of a contract, and how to use Inheritance to modify existing logic without rewriting it from scratch.
 
 📁 Contract Overviews
